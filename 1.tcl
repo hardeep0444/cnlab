@@ -49,4 +49,3 @@ proc finish {} {
 }
 
 $ns run
-# grep "^f" ex1.tr
